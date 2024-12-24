@@ -1,0 +1,5 @@
+name: SC-Inventories
+version: '1.0'
+main: com.stemcraft.PlayerHeads
+api-version: '1.21'
+depend: [STEMCraftLib]
